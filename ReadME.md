@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sibgat-git/Medical-Insurance-Premium-Predictor/blob/main/Medical-Insurance-Premium-Predictor.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sibgat-git/Medical-Insurance-Premium-Predictor/blob/main/Medical_Insurance_Premium_Predictor_.ipynb)
